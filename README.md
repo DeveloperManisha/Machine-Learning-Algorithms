@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-ML practice problems
+ML projects to sharpen skills 

@@ -1,0 +1,7 @@
+use reshape to convert 1-D array to matrix
+use flatten to convert ndarray to 1-D array
+use imshow to display the image
+create dict using two lists 
+create data frame using dict
+use sklearn.model_selection library to split data using train_test_split method
+from sklearn.neighbors , use KNeighborsClassifier to train model on KNN algorithm
